@@ -1,0 +1,42 @@
+body {
+  font-family: Arial, sans-serif;
+  max-width: 600px;
+  margin: 40px auto;
+  padding: 0 20px;
+  background-color: #f9f9f9;
+}
+
+h1 {
+  color: #2c3e50;
+}
+
+h2 {
+  color: #7f8c8d;
+}
+
+p {
+  line-height: 1.6;
+}
+
+ul {
+  background-color: white;
+  padding: 20px 40px;
+  border-radius: 8px;
+}
+
+a {
+  color: #3498db;
+}
+
+img {
+  width: 150px;
+  border-radius: 50%;
+  margin-top: 20px;
+}
+
+.intro {
+  font-size: 18px;
+  color: #555;
+  border-left: 4px solid #3498db;
+  padding-left: 12px;
+}
